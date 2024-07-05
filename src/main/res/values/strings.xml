@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Legends</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_poster">movie poster</string>
+    <string name="star_icon">star icon</string>
+    <string name="error_image">error image</string>
+    <string name="movie_rating">Ratings: %1$s</string>
+    <string name="movie_list">Popular Movie List</string>
+    <string name="error_message">An unexpected error has occurred.</string>
+</resources>
